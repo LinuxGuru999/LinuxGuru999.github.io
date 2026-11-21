@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://LinuxGuru999.github.io/</loc></url>
   <url><loc>https://LinuxGuru999.github.io/shotgun-droid-term/</loc></url>
+  <url><loc>https://LinuxGuru999.github.io/shotgun-droid-use/</loc></url>
+  <url><loc>https://LinuxGuru999.github.io/shotgun-devkit-cli/</loc></url>
   <url><loc>https://LinuxGuru999.github.io/shotgun-git-commit-prompt-pack/</loc></url>
   <url><loc>https://LinuxGuru999.github.io/shotgun-json-formatter-cli/</loc></url>
   <url><loc>https://LinuxGuru999.github.io/shotgun-docker-cleanup-playbook/</loc></url>
